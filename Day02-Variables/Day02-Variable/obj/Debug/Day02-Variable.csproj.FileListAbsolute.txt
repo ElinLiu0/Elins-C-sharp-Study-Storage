@@ -1,0 +1,7 @@
+E:\My Code\C#\Day02-变量\Day02-变量\bin\Debug\Day02-变量.exe.config
+E:\My Code\C#\Day02-变量\Day02-变量\bin\Debug\Day02-变量.exe
+E:\My Code\C#\Day02-变量\Day02-变量\bin\Debug\Day02-变量.pdb
+E:\My Code\C#\Day02-变量\Day02-变量\obj\Debug\Day02-Variable.csproj.SuggestedBindingRedirects.cache
+E:\My Code\C#\Day02-变量\Day02-变量\obj\Debug\Day02-Variable.csproj.CoreCompileInputs.cache
+E:\My Code\C#\Day02-变量\Day02-变量\obj\Debug\Day02-变量.exe
+E:\My Code\C#\Day02-变量\Day02-变量\obj\Debug\Day02-变量.pdb

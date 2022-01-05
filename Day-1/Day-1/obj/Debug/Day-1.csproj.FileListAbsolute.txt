@@ -1,0 +1,8 @@
+E:\My Code\C#\Day-1\Day-1\bin\Debug\Day-1.exe.config
+E:\My Code\C#\Day-1\Day-1\bin\Debug\Day-1.exe
+E:\My Code\C#\Day-1\Day-1\bin\Debug\Day-1.pdb
+E:\My Code\C#\Day-1\Day-1\obj\Debug\Day-1.csproj.AssemblyReference.cache
+E:\My Code\C#\Day-1\Day-1\obj\Debug\Day-1.csproj.SuggestedBindingRedirects.cache
+E:\My Code\C#\Day-1\Day-1\obj\Debug\Day-1.csproj.CoreCompileInputs.cache
+E:\My Code\C#\Day-1\Day-1\obj\Debug\Day-1.exe
+E:\My Code\C#\Day-1\Day-1\obj\Debug\Day-1.pdb
