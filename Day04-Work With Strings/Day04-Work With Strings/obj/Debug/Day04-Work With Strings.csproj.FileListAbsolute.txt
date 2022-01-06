@@ -1,0 +1,8 @@
+E:\My Code\C#\Day04-Work With Strings\Day04-Work With Strings\bin\Debug\Day04-Work With Strings.exe.config
+E:\My Code\C#\Day04-Work With Strings\Day04-Work With Strings\bin\Debug\Day04-Work With Strings.exe
+E:\My Code\C#\Day04-Work With Strings\Day04-Work With Strings\bin\Debug\Day04-Work With Strings.pdb
+E:\My Code\C#\Day04-Work With Strings\Day04-Work With Strings\obj\Debug\Day04-Work With Strings.csproj.AssemblyReference.cache
+E:\My Code\C#\Day04-Work With Strings\Day04-Work With Strings\obj\Debug\Day04-Work With Strings.csproj.SuggestedBindingRedirects.cache
+E:\My Code\C#\Day04-Work With Strings\Day04-Work With Strings\obj\Debug\Day04-Work With Strings.csproj.CoreCompileInputs.cache
+E:\My Code\C#\Day04-Work With Strings\Day04-Work With Strings\obj\Debug\Day04-Work With Strings.exe
+E:\My Code\C#\Day04-Work With Strings\Day04-Work With Strings\obj\Debug\Day04-Work With Strings.pdb
