@@ -1,0 +1,8 @@
+E:\My Code\C#\Day07-Build Basic Calculator\Day07-Build Basic Calculator\bin\Debug\Day07-Build Basic Calculator.exe.config
+E:\My Code\C#\Day07-Build Basic Calculator\Day07-Build Basic Calculator\bin\Debug\Day07-Build Basic Calculator.exe
+E:\My Code\C#\Day07-Build Basic Calculator\Day07-Build Basic Calculator\bin\Debug\Day07-Build Basic Calculator.pdb
+E:\My Code\C#\Day07-Build Basic Calculator\Day07-Build Basic Calculator\obj\Debug\Day07-Build Basic Calculator.csproj.AssemblyReference.cache
+E:\My Code\C#\Day07-Build Basic Calculator\Day07-Build Basic Calculator\obj\Debug\Day07-Build Basic Calculator.csproj.SuggestedBindingRedirects.cache
+E:\My Code\C#\Day07-Build Basic Calculator\Day07-Build Basic Calculator\obj\Debug\Day07-Build Basic Calculator.csproj.CoreCompileInputs.cache
+E:\My Code\C#\Day07-Build Basic Calculator\Day07-Build Basic Calculator\obj\Debug\Day07-Build Basic Calculator.exe
+E:\My Code\C#\Day07-Build Basic Calculator\Day07-Build Basic Calculator\obj\Debug\Day07-Build Basic Calculator.pdb

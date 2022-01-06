@@ -1,0 +1,8 @@
+E:\My Code\C#\Day06-Getting User Input\Day06-Getting User Input\bin\Debug\Day06-Getting User Input.exe.config
+E:\My Code\C#\Day06-Getting User Input\Day06-Getting User Input\bin\Debug\Day06-Getting User Input.exe
+E:\My Code\C#\Day06-Getting User Input\Day06-Getting User Input\bin\Debug\Day06-Getting User Input.pdb
+E:\My Code\C#\Day06-Getting User Input\Day06-Getting User Input\obj\Debug\Day06-Getting User Input.csproj.AssemblyReference.cache
+E:\My Code\C#\Day06-Getting User Input\Day06-Getting User Input\obj\Debug\Day06-Getting User Input.csproj.SuggestedBindingRedirects.cache
+E:\My Code\C#\Day06-Getting User Input\Day06-Getting User Input\obj\Debug\Day06-Getting User Input.csproj.CoreCompileInputs.cache
+E:\My Code\C#\Day06-Getting User Input\Day06-Getting User Input\obj\Debug\Day06-Getting User Input.exe
+E:\My Code\C#\Day06-Getting User Input\Day06-Getting User Input\obj\Debug\Day06-Getting User Input.pdb

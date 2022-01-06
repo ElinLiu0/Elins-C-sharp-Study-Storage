@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0ff2b516-2ac6-4afd-961f-2e71dde759e9": {
+      "ProjectGuid": "0ff2b516-2ac6-4afd-961f-2e71dde759e9",
+      "DisplayName": "Day07-Build Basic Calculator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
