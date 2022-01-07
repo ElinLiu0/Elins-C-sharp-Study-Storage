@@ -21,6 +21,7 @@ namespace Day08_Arrays
             // 可以使用数组的索引对其进行值插入或者重新更改
             luckname[0] = "Mike";
             luckname[1] = "John";
+            // 数组内的所有数据类型需均保持一致
             Console.WriteLine(luckname[1]);
             Console.ReadLine();
         }
