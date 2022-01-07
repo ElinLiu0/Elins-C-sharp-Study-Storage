@@ -1,0 +1,8 @@
+E:\My Code\C#\Day09-Methods\Day09-Methods\bin\Debug\Day09-Methods.exe.config
+E:\My Code\C#\Day09-Methods\Day09-Methods\bin\Debug\Day09-Methods.exe
+E:\My Code\C#\Day09-Methods\Day09-Methods\bin\Debug\Day09-Methods.pdb
+E:\My Code\C#\Day09-Methods\Day09-Methods\obj\Debug\Day09-Methods.csproj.AssemblyReference.cache
+E:\My Code\C#\Day09-Methods\Day09-Methods\obj\Debug\Day09-Methods.csproj.SuggestedBindingRedirects.cache
+E:\My Code\C#\Day09-Methods\Day09-Methods\obj\Debug\Day09-Methods.csproj.CoreCompileInputs.cache
+E:\My Code\C#\Day09-Methods\Day09-Methods\obj\Debug\Day09-Methods.exe
+E:\My Code\C#\Day09-Methods\Day09-Methods\obj\Debug\Day09-Methods.pdb
