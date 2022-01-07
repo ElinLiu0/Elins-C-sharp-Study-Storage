@@ -1,0 +1,8 @@
+E:\My Code\C#\Day08-Arrays\Day08-Arrays\bin\Debug\Day08-Arrays.exe.config
+E:\My Code\C#\Day08-Arrays\Day08-Arrays\bin\Debug\Day08-Arrays.exe
+E:\My Code\C#\Day08-Arrays\Day08-Arrays\bin\Debug\Day08-Arrays.pdb
+E:\My Code\C#\Day08-Arrays\Day08-Arrays\obj\Debug\Day08-Arrays.csproj.AssemblyReference.cache
+E:\My Code\C#\Day08-Arrays\Day08-Arrays\obj\Debug\Day08-Arrays.csproj.SuggestedBindingRedirects.cache
+E:\My Code\C#\Day08-Arrays\Day08-Arrays\obj\Debug\Day08-Arrays.csproj.CoreCompileInputs.cache
+E:\My Code\C#\Day08-Arrays\Day08-Arrays\obj\Debug\Day08-Arrays.exe
+E:\My Code\C#\Day08-Arrays\Day08-Arrays\obj\Debug\Day08-Arrays.pdb
