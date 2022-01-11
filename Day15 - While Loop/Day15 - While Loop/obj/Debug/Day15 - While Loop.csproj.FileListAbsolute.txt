@@ -1,0 +1,8 @@
+E:\My Code\C#\Day15 - While Loop\Day15 - While Loop\bin\Debug\Day15 - While Loop.exe.config
+E:\My Code\C#\Day15 - While Loop\Day15 - While Loop\bin\Debug\Day15 - While Loop.exe
+E:\My Code\C#\Day15 - While Loop\Day15 - While Loop\bin\Debug\Day15 - While Loop.pdb
+E:\My Code\C#\Day15 - While Loop\Day15 - While Loop\obj\Debug\Day15 - While Loop.csproj.AssemblyReference.cache
+E:\My Code\C#\Day15 - While Loop\Day15 - While Loop\obj\Debug\Day15 - While Loop.csproj.SuggestedBindingRedirects.cache
+E:\My Code\C#\Day15 - While Loop\Day15 - While Loop\obj\Debug\Day15 - While Loop.csproj.CoreCompileInputs.cache
+E:\My Code\C#\Day15 - While Loop\Day15 - While Loop\obj\Debug\Day15 - While Loop.exe
+E:\My Code\C#\Day15 - While Loop\Day15 - While Loop\obj\Debug\Day15 - While Loop.pdb

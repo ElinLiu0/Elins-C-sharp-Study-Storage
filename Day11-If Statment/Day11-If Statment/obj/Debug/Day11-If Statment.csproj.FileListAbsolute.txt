@@ -1,0 +1,8 @@
+E:\My Code\C#\Day11-If Statment\Day11-If Statment\bin\Debug\Day11-If Statment.exe.config
+E:\My Code\C#\Day11-If Statment\Day11-If Statment\bin\Debug\Day11-If Statment.exe
+E:\My Code\C#\Day11-If Statment\Day11-If Statment\bin\Debug\Day11-If Statment.pdb
+E:\My Code\C#\Day11-If Statment\Day11-If Statment\obj\Debug\Day11-If Statment.csproj.AssemblyReference.cache
+E:\My Code\C#\Day11-If Statment\Day11-If Statment\obj\Debug\Day11-If Statment.csproj.SuggestedBindingRedirects.cache
+E:\My Code\C#\Day11-If Statment\Day11-If Statment\obj\Debug\Day11-If Statment.csproj.CoreCompileInputs.cache
+E:\My Code\C#\Day11-If Statment\Day11-If Statment\obj\Debug\Day11-If Statment.exe
+E:\My Code\C#\Day11-If Statment\Day11-If Statment\obj\Debug\Day11-If Statment.pdb

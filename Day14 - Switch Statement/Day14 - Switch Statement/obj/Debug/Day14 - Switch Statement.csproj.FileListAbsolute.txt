@@ -1,0 +1,8 @@
+E:\My Code\C#\Day14 - Switch Statement\Day14 - Switch Statement\obj\Debug\Day14 - Switch Statement.csproj.AssemblyReference.cache
+E:\My Code\C#\Day14 - Switch Statement\Day14 - Switch Statement\obj\Debug\Day14 - Switch Statement.csproj.SuggestedBindingRedirects.cache
+E:\My Code\C#\Day14 - Switch Statement\Day14 - Switch Statement\obj\Debug\Day14 - Switch Statement.csproj.CoreCompileInputs.cache
+E:\My Code\C#\Day14 - Switch Statement\Day14 - Switch Statement\bin\Debug\Day14 - Switch Statement.exe.config
+E:\My Code\C#\Day14 - Switch Statement\Day14 - Switch Statement\bin\Debug\Day14 - Switch Statement.exe
+E:\My Code\C#\Day14 - Switch Statement\Day14 - Switch Statement\bin\Debug\Day14 - Switch Statement.pdb
+E:\My Code\C#\Day14 - Switch Statement\Day14 - Switch Statement\obj\Debug\Day14 - Switch Statement.exe
+E:\My Code\C#\Day14 - Switch Statement\Day14 - Switch Statement\obj\Debug\Day14 - Switch Statement.pdb
