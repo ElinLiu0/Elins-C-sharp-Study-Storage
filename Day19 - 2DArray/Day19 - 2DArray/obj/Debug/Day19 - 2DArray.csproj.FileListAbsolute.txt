@@ -1,0 +1,8 @@
+E:\My Code\C++\Day19 - 2DArray\Day19 - 2DArray\bin\Debug\Day19 - 2DArray.exe.config
+E:\My Code\C++\Day19 - 2DArray\Day19 - 2DArray\bin\Debug\Day19 - 2DArray.exe
+E:\My Code\C++\Day19 - 2DArray\Day19 - 2DArray\bin\Debug\Day19 - 2DArray.pdb
+E:\My Code\C++\Day19 - 2DArray\Day19 - 2DArray\obj\Debug\Day19 - 2DArray.csproj.AssemblyReference.cache
+E:\My Code\C++\Day19 - 2DArray\Day19 - 2DArray\obj\Debug\Day19 - 2DArray.csproj.SuggestedBindingRedirects.cache
+E:\My Code\C++\Day19 - 2DArray\Day19 - 2DArray\obj\Debug\Day19 - 2DArray.csproj.CoreCompileInputs.cache
+E:\My Code\C++\Day19 - 2DArray\Day19 - 2DArray\obj\Debug\Day19 - 2DArray.exe
+E:\My Code\C++\Day19 - 2DArray\Day19 - 2DArray\obj\Debug\Day19 - 2DArray.pdb

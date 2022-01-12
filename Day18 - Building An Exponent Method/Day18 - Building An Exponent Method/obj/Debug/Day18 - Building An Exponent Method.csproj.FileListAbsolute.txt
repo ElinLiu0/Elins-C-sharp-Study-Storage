@@ -1,0 +1,8 @@
+E:\My Code\C#\Day18 - Building An Exponent Method\Day18 - Building An Exponent Method\bin\Debug\Day18 - Building An Exponent Method.exe.config
+E:\My Code\C#\Day18 - Building An Exponent Method\Day18 - Building An Exponent Method\bin\Debug\Day18 - Building An Exponent Method.exe
+E:\My Code\C#\Day18 - Building An Exponent Method\Day18 - Building An Exponent Method\bin\Debug\Day18 - Building An Exponent Method.pdb
+E:\My Code\C#\Day18 - Building An Exponent Method\Day18 - Building An Exponent Method\obj\Debug\Day18 - Building An Exponent Method.csproj.AssemblyReference.cache
+E:\My Code\C#\Day18 - Building An Exponent Method\Day18 - Building An Exponent Method\obj\Debug\Day18 - Building An Exponent Method.csproj.SuggestedBindingRedirects.cache
+E:\My Code\C#\Day18 - Building An Exponent Method\Day18 - Building An Exponent Method\obj\Debug\Day18 - Building An Exponent Method.csproj.CoreCompileInputs.cache
+E:\My Code\C#\Day18 - Building An Exponent Method\Day18 - Building An Exponent Method\obj\Debug\Day18 - Building An Exponent Method.exe
+E:\My Code\C#\Day18 - Building An Exponent Method\Day18 - Building An Exponent Method\obj\Debug\Day18 - Building An Exponent Method.pdb
