@@ -13,8 +13,7 @@ namespace Day21___Classes_and_Object
         static void Main(string[] args)
         {
 
-            book book1= new book();
-            book1.Title = "Harry Potter";
+            book book1= new book("Harry Porter");
             book1.Author = "J.K.Rowling";
             book1.pages = 128;
             Console.WriteLine(book1);
