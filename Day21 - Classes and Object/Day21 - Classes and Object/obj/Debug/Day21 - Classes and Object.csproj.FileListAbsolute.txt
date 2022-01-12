@@ -1,0 +1,8 @@
+E:\My Code\C#\Day21 - Classes and Object\Day21 - Classes and Object\bin\Debug\Day21 - Classes and Object.exe.config
+E:\My Code\C#\Day21 - Classes and Object\Day21 - Classes and Object\bin\Debug\Day21 - Classes and Object.exe
+E:\My Code\C#\Day21 - Classes and Object\Day21 - Classes and Object\bin\Debug\Day21 - Classes and Object.pdb
+E:\My Code\C#\Day21 - Classes and Object\Day21 - Classes and Object\obj\Debug\Day21 - Classes and Object.csproj.AssemblyReference.cache
+E:\My Code\C#\Day21 - Classes and Object\Day21 - Classes and Object\obj\Debug\Day21 - Classes and Object.csproj.SuggestedBindingRedirects.cache
+E:\My Code\C#\Day21 - Classes and Object\Day21 - Classes and Object\obj\Debug\Day21 - Classes and Object.csproj.CoreCompileInputs.cache
+E:\My Code\C#\Day21 - Classes and Object\Day21 - Classes and Object\obj\Debug\Day21 - Classes and Object.exe
+E:\My Code\C#\Day21 - Classes and Object\Day21 - Classes and Object\obj\Debug\Day21 - Classes and Object.pdb
