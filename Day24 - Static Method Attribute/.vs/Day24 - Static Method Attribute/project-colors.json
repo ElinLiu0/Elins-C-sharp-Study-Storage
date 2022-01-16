@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6a720685-595a-4b30-a896-9c11cae5464a": {
+      "ProjectGuid": "6a720685-595a-4b30-a896-9c11cae5464a",
+      "DisplayName": "Day24 - Static Method Attribute",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

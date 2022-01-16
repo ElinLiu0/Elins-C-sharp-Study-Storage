@@ -1,0 +1,7 @@
+E:\My Code\C#\Day26 - Static Method and Class\Day26 - Static Method and Class\bin\Debug\Day26 - Static Method and Class.exe.config
+E:\My Code\C#\Day26 - Static Method and Class\Day26 - Static Method and Class\bin\Debug\Day26 - Static Method and Class.exe
+E:\My Code\C#\Day26 - Static Method and Class\Day26 - Static Method and Class\bin\Debug\Day26 - Static Method and Class.pdb
+E:\My Code\C#\Day26 - Static Method and Class\Day26 - Static Method and Class\obj\Debug\Day26 - Static Method and Class.csproj.SuggestedBindingRedirects.cache
+E:\My Code\C#\Day26 - Static Method and Class\Day26 - Static Method and Class\obj\Debug\Day26 - Static Method and Class.csproj.CoreCompileInputs.cache
+E:\My Code\C#\Day26 - Static Method and Class\Day26 - Static Method and Class\obj\Debug\Day26 - Static Method and Class.exe
+E:\My Code\C#\Day26 - Static Method and Class\Day26 - Static Method and Class\obj\Debug\Day26 - Static Method and Class.pdb

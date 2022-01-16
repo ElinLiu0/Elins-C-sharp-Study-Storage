@@ -1,0 +1,8 @@
+E:\My Code\C#\Day24 - Static Method Attribute\Day24 - Static Method Attribute\bin\Debug\Day24 - Static Method Attribute.exe.config
+E:\My Code\C#\Day24 - Static Method Attribute\Day24 - Static Method Attribute\bin\Debug\Day24 - Static Method Attribute.exe
+E:\My Code\C#\Day24 - Static Method Attribute\Day24 - Static Method Attribute\bin\Debug\Day24 - Static Method Attribute.pdb
+E:\My Code\C#\Day24 - Static Method Attribute\Day24 - Static Method Attribute\obj\Debug\Day24 - Static Method Attribute.csproj.AssemblyReference.cache
+E:\My Code\C#\Day24 - Static Method Attribute\Day24 - Static Method Attribute\obj\Debug\Day24 - Static Method Attribute.csproj.SuggestedBindingRedirects.cache
+E:\My Code\C#\Day24 - Static Method Attribute\Day24 - Static Method Attribute\obj\Debug\Day24 - Static Method Attribute.csproj.CoreCompileInputs.cache
+E:\My Code\C#\Day24 - Static Method Attribute\Day24 - Static Method Attribute\obj\Debug\Day24 - Static Method Attribute.exe
+E:\My Code\C#\Day24 - Static Method Attribute\Day24 - Static Method Attribute\obj\Debug\Day24 - Static Method Attribute.pdb

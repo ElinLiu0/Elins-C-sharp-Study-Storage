@@ -1,0 +1,8 @@
+E:\My Code\C#\Day23 - Getter and Setter\Day23 - Getter and Setter\bin\Debug\Day23 - Getter and Setter.exe.config
+E:\My Code\C#\Day23 - Getter and Setter\Day23 - Getter and Setter\bin\Debug\Day23 - Getter and Setter.exe
+E:\My Code\C#\Day23 - Getter and Setter\Day23 - Getter and Setter\bin\Debug\Day23 - Getter and Setter.pdb
+E:\My Code\C#\Day23 - Getter and Setter\Day23 - Getter and Setter\obj\Debug\Day23 - Getter and Setter.csproj.AssemblyReference.cache
+E:\My Code\C#\Day23 - Getter and Setter\Day23 - Getter and Setter\obj\Debug\Day23 - Getter and Setter.csproj.SuggestedBindingRedirects.cache
+E:\My Code\C#\Day23 - Getter and Setter\Day23 - Getter and Setter\obj\Debug\Day23 - Getter and Setter.csproj.CoreCompileInputs.cache
+E:\My Code\C#\Day23 - Getter and Setter\Day23 - Getter and Setter\obj\Debug\Day23 - Getter and Setter.exe
+E:\My Code\C#\Day23 - Getter and Setter\Day23 - Getter and Setter\obj\Debug\Day23 - Getter and Setter.pdb

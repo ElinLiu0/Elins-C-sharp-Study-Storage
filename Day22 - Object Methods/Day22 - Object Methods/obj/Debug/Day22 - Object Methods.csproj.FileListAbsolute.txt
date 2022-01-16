@@ -1,0 +1,8 @@
+E:\My Code\C#\Day22 - Object Methods\Day22 - Object Methods\bin\Debug\Day22 - Object Methods.exe.config
+E:\My Code\C#\Day22 - Object Methods\Day22 - Object Methods\bin\Debug\Day22 - Object Methods.exe
+E:\My Code\C#\Day22 - Object Methods\Day22 - Object Methods\bin\Debug\Day22 - Object Methods.pdb
+E:\My Code\C#\Day22 - Object Methods\Day22 - Object Methods\obj\Debug\Day22 - Object Methods.csproj.AssemblyReference.cache
+E:\My Code\C#\Day22 - Object Methods\Day22 - Object Methods\obj\Debug\Day22 - Object Methods.csproj.SuggestedBindingRedirects.cache
+E:\My Code\C#\Day22 - Object Methods\Day22 - Object Methods\obj\Debug\Day22 - Object Methods.csproj.CoreCompileInputs.cache
+E:\My Code\C#\Day22 - Object Methods\Day22 - Object Methods\obj\Debug\Day22 - Object Methods.exe
+E:\My Code\C#\Day22 - Object Methods\Day22 - Object Methods\obj\Debug\Day22 - Object Methods.pdb

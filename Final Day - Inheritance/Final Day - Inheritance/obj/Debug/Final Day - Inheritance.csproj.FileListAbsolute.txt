@@ -1,0 +1,8 @@
+E:\My Code\C#\Final Day - Inheritance\Final Day - Inheritance\bin\Debug\Final Day - Inheritance.exe.config
+E:\My Code\C#\Final Day - Inheritance\Final Day - Inheritance\bin\Debug\Final Day - Inheritance.exe
+E:\My Code\C#\Final Day - Inheritance\Final Day - Inheritance\bin\Debug\Final Day - Inheritance.pdb
+E:\My Code\C#\Final Day - Inheritance\Final Day - Inheritance\obj\Debug\Final Day - Inheritance.csproj.AssemblyReference.cache
+E:\My Code\C#\Final Day - Inheritance\Final Day - Inheritance\obj\Debug\Final Day - Inheritance.csproj.SuggestedBindingRedirects.cache
+E:\My Code\C#\Final Day - Inheritance\Final Day - Inheritance\obj\Debug\Final Day - Inheritance.csproj.CoreCompileInputs.cache
+E:\My Code\C#\Final Day - Inheritance\Final Day - Inheritance\obj\Debug\Final Day - Inheritance.exe
+E:\My Code\C#\Final Day - Inheritance\Final Day - Inheritance\obj\Debug\Final Day - Inheritance.pdb
